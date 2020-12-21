@@ -1,3 +1,6 @@
 test
+<<<<<<< HEAD
 test
+=======
+>>>>>>> 7140861... start
 test
